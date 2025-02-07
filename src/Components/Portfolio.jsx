@@ -17,7 +17,7 @@ const Portfolio = () => {
           {
             title: "Docs Wallet",
             image: website1,
-            link: "https://glittery-griffin-a5463a.netlify.app/"
+            link: "https://docs-wallet-93b4b.web.app/"
           },
           {
             title: "Bistro Boss",
