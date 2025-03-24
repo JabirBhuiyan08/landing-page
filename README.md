@@ -6,8 +6,8 @@ This is a Simple landing page. This is a simple and responsive landing page for 
 -Easy to customize
 
 🛠️ Tech Stack
--HTML5 - Structure
--CSS3 - Styling
+-HTML5 Structure
+-CSS3 Styling
 -JavaScript - Interactivity
 -Tailwind CSS (if used)
 -Vite (if applicable for development)
